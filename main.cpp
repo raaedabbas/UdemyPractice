@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "reeves is dumbb" << endl;
+  cout << "Raaed is smart" << endl;
   
   return 0;
 }
